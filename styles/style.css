@@ -3,3 +3,21 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+header{
+    background-color: #0A22F4;
+    top:0;
+    left: 0;
+    width: 100%;
+}
+h1{
+    color: #FFFFFF;
+    font-size: 32px;
+    font-family:Helveticaregular;
+    padding-top: 70px;
+    padding-left: 240px;
+}
+header ul li {
+	display: inline-block;
+    color: #FFFFFF;
+}
+
