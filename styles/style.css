@@ -31,3 +31,15 @@ h1{
     display: flex;
     overflow-x: hidden;
 }
+.imageinfo{
+    width: 463px;
+    height: 420px;
+    padding-left: ;
+}
+.imagetitle{
+    position: absolute;
+    bottom: 10px;
+    background-color: #FFFFFF;
+    font-family: Helveticaregular;
+    width: 443px;
+}
